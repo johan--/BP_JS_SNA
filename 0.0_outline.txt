@@ -13,6 +13,11 @@ https://github.com/nltk/nltk/wiki/Sentiment-Analysis
 
 SNAP and wide no of test data:
 https://web.stanford.edu/class/cs224w/resources.html
+http://snap.stanford.edu/data/
+
+TWITTER-PYTHON
+A homegrown, basic daily twitter scrape, data2csv and networkx vis
+https://github.com/computermacgyver/twitter-python.git
 
 
 Examples:
