@@ -1,0 +1,21 @@
+Project outline;
+
+
+
+PYTHON PACKAGES:
+
+Netwokx: python package for creating, analysing and modifying networks
+https://networkx.github.io/
+
+NLTK: Natural language toolkit, may be used for sentiment analysis
+http://www.nltk.org/
+https://github.com/nltk/nltk/wiki/Sentiment-Analysis
+
+
+Examples:
+
+1. Analysis  of tweets using the #ADP2014 hashtag; variety of link - node rank parameters. 
+https://cartorezo.wordpress.com/2014/04/15/a-social-network-analysis-of-the-adp2014-hashtag-users-during-bonn-climate-change-conference/
+
+Similar Web:
+socioviz.net
