@@ -11,11 +11,17 @@ NLTK: Natural language toolkit, may be used for sentiment analysis
 http://www.nltk.org/
 https://github.com/nltk/nltk/wiki/Sentiment-Analysis
 
+SNAP and wide no of test data:
+https://web.stanford.edu/class/cs224w/resources.html
+
 
 Examples:
 
 1. Analysis  of tweets using the #ADP2014 hashtag; variety of link - node rank parameters. 
 https://cartorezo.wordpress.com/2014/04/15/a-social-network-analysis-of-the-adp2014-hashtag-users-during-bonn-climate-change-conference/
+
+2. finding twitter influencers
+http://blog.nycdatascience.com/students-work/find-twitter-influencers-through-social-network-analysis/?utm_content=bufferba56b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 Similar Web:
 socioviz.net
